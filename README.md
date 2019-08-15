@@ -7,13 +7,13 @@
 
 ## デモビデオ
 - ノードの概要
-  - [![Overview](https://img.youtube.com/vi/rCcI_yF5Y8M/mqdefault.jpg)](https://youtu.be/rCcI_yF5Y8M)]
+  - [![Overview](https://img.youtube.com/vi/rCcI_yF5Y8M/mqdefault.jpg)](https://youtu.be/rCcI_yF5Y8M)
 - 複数の入力による制御例
-  - [![Overview](https://img.youtube.com/vi/ChTxNfQKoLo/mqdefault.jpg)](https://youtu.be/ChTxNfQKoLo)]
+  - [![Overview](https://img.youtube.com/vi/ChTxNfQKoLo/mqdefault.jpg)](https://youtu.be/ChTxNfQKoLo)
 - 使用手順 バージョン1（平行移動ドライバー）
-  - [![UseCase1](https://img.youtube.com/vi/-ZC-GFfH9_8/mqdefault.jpg)](https://youtu.be/-ZC-GFfH9_8)]
+  - [![UseCase1](https://img.youtube.com/vi/-ZC-GFfH9_8/mqdefault.jpg)](https://youtu.be/-ZC-GFfH9_8)
 - 使用手順 バージョン2（回転ドライバー）
-  - [![UseCase1](https://img.youtube.com/vi/eV1AXGfdWSk/mqdefault.jpg)](https://youtu.be/eV1AXGfdWSk)]
+  - [![UseCase1](https://img.youtube.com/vi/eV1AXGfdWSk/mqdefault.jpg)](https://youtu.be/eV1AXGfdWSk)
 
  
 ## 動作環境
