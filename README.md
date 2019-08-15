@@ -5,6 +5,15 @@
 - 入力データはローカル行列、出力データは平行移動・回転・スケールです。
 - 多対一の制御が可能です。つまり、複数のトランスフォームを入力として、1つのトランスフォームノードを制御できます。
 
+## デモビデオ
+- ノードの概要
+  - [![Overview](https://img.youtube.com/vi/rCcI_yF5Y8M/mqdefault.jpg)](https://youtu.be/rCcI_yF5Y8M)]
+- 複数の入力による制御例
+  - [![Overview](https://img.youtube.com/vi/ChTxNfQKoLo/mqdefault.jpg)](https://youtu.be/ChTxNfQKoLo)]
+- 使用手順
+  - [![UseCase1](https://img.youtube.com/vi/-ZC-GFfH9_8/mqdefault.jpg)](https://youtu.be/-ZC-GFfH9_8)]
+- 回転による制御
+
 ## 動作環境
 Windows 10 + Maya 2018（無印）の環境でのみ開発・動作確認しています。他バージョンについては未サポートです。
 
