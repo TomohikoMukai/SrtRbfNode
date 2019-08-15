@@ -20,7 +20,7 @@ Windows 10 + Maya 2018（無印）の環境でのみ開発・動作確認して�
 
 ![AddKrigingSample](https://github.com/TomohikoMukai/KrigingNode/blob/image/AddKrigingSample.png)
 
-![KrigingNodeAttribute](https://github.com/TomohikoMukai/KrigingNode/blob/image/KrigingNodeAttribute.png)
+![KrigingNodeAttributes](https://github.com/TomohikoMukai/KrigingNode/blob/image/KrigingNodeAttributes.png)
 
 5. 必要数のサンプルを追加したら、KrigingNodeの出力を制御先トランスフォームに接続します。あとは制御元トランスフォームに連動して制御先が運動します。
 
