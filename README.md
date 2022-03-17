@@ -41,9 +41,7 @@ Windows 10 + Maya 2018（無印）の環境でのみ開発・動作確認して�
 ![SrtRbfNodeDrive](https://github.com/TomohikoMukai/SrtRbfNode/blob/image/KrigingNodeDrive.png)
 
 
-## ソースコードについて
-現時点では非公開です。将来的にはオープンソースとして公開します。
-
 ## 更新履歴
+- [2022.3.17] 第二版・ソースコード公開
 - [2019.8.15] 初版リリース
 
