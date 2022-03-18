@@ -1,4 +1,4 @@
-# SRT-RBF Node for Maya
+# SRT-RBF Node for Maya 2020
 Implematation of "Transformation Constraints Using Approximate Spherical Regression" in Maya 2020.
 
 Publications
