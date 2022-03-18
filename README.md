@@ -7,17 +7,17 @@ Publications
 
 ## How to use
 1. Load "SrtRbfNode.mll" in Plug-in Manager in Maya 2020.2
-2. Select a secondary transformation node and execute the MEL command "CreateSrtRbfNode" in Script Editor. SrtRbfNode will be appeared in Node Editor if succeeded,.
+2. Select a secondary transformation node and execute the MEL command "CreateSrtRbfNode" in Script Editor. SrtRbfNode will appear in Node Editor if succeeded,.
 
 ![CreateSrtRbfNode](https://github.com/TomohikoMukai/SrtRbfNode/blob/image/CreateSrtRbfNode.png)
 
 3. Connect the Matrix attribute of the primary transformation node to the Input attribute of the SrtRbfNode.
 
-4. Specify a pair of transformations of the primary and secondary node and execute the MEL command "AddSrtRbfSample". The number of "Examples" attribute of the SrtRbfNode will be incremented if succeeded.
+4. Execute the MEL command "AddSrtRbfSample" when each pair of transformations of the primary and secondary node is specified. The number of "Examples" attribute of the SrtRbfNode will be incremented if succeeded.
 
 ![AddSrtRbfSample](https://github.com/TomohikoMukai/SrtRbfNode/blob/image/AddSrtRbfExample.png)
 
-5. Once finish adding all examples, connect the Output attribute of the SrtRbfNode to the secondary transformation node via decomposeMatrix node.
+5. Once finishing adding all examples, connect the Output attribute of the SrtRbfNode to the secondary transformation node via decomposeMatrix node.
 
 ![SrtRbfNodeOutput](https://github.com/TomohikoMukai/SrtRbfNode/blob/image/SrtRbfNodeOutput.png)
 
