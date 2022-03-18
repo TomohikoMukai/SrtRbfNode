@@ -15,7 +15,7 @@ Publications
 
 4. Specify a pair of transformations of the primary and secondary node and execute the MEL command "AddSrtRbfSample". The number of "Examples" attribute of the SrtRbfNode will be incremented if succeeded.
 
-![AddSrtRbfSample](https://github.com/TomohikoMukai/SrtRbfNode/blob/image/AddSrtRbfSample.png)
+![AddSrtRbfSample](https://github.com/TomohikoMukai/SrtRbfNode/blob/image/AddSrtRbfExample.png)
 
 5. Once finish adding all examples, connect the Output attribute of the SrtRbfNode to the secondary transformation node via decomposeMatrix node.
 
