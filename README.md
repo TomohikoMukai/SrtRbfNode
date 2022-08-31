@@ -2,7 +2,7 @@
 Implematation of "Transformation Constraints Using Approximate Spherical Regression" in Maya 2020.
 
 Publications
-- Tomohiko Mukai, Transformation Constraints Using Approximate Spherical Regression, to appear.
+- Tomohiko Mukai, [Transformation Constraints Using Approximate Spherical Regression](https://jcgt.org/published/0011/03/01/), Journal of Computer Graphics Techniques, vol. 11, no. 3, 1-21, 2022.
 - Tomohiko Mukai, Example-based Interlocking Control of SRT Transformations, Visual Computing 2020 (Japanese)
 
 ## How to use
